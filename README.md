@@ -6,12 +6,18 @@
 ### Introdução 🧪
 <p align="justify">
   A supercondutividade pode ser definida como um fenômeno físico caracterizado pela expulsão dos campos magnéticos de um material, bem como a resistência nula do mesmo a passagem de corrente elétrica [1]. Apesar do fenômeno ter sido descoberto em 1911, ainda não se sabe quais são as propriedades que podem levar um material a vir se tornar um supercondutor. Dessa forma, dada a vasta aplicabilidade desses materiais, torna-se fundamental o estudo de suas principais propriedades. 
-  
+</p>
+
+<p align="justify">
   Nesse viés, tem-se que a temperatura crítica - isto é, a temperatura mínima a qual o material precisa ser submetido para atuar como um supercondutor - aparece como um dos principais atributos que podem auxiliar na compreensão e, até mesmo, aplicação desses materiais. 
+</p>
   
+  <p align="justify">
   Um dos principais datasets referentes a supercondutores busca, justamente, utilizar características obtidas a partir de propriedades desses materiais, para a previsão da temperatura crítica. Presente na base de dados UCI Machine Learning, o dataset descrito no artigo "Data driven Statistical model for predicting the critical temperature of a superconductor" [2] busca criar features a partir de características deduzidas a partir da fórmula química desses materiais (i.e massa atômica, primeira energia de ionização, raio atômico, densidade, afinidade eletrônica, temperatura de fusão, condutividade térmica e valência). Aplicando medidas estatísticas( como média simples, ponderada, geométrica e geométrica ponderada, entropia simples e ponderada, range simples e ponderado e desvio padrão simples e ponderado), foi possível então criar 81 features que se relacionam com a temperatura crítica.
+  </p>
   
-  Com o objetivo de investigar como essas propriedades podem se relacionar com a definição de um supercondutor, portanto, esse trabalho busca treinar modelos de aprendizado de máquina e, concomitantemente, aplicar variadas técnicas de *Explicable AI* (do português, inteligência artificial explicável), no dataset descrito. Ao final da investigação, visa-se uma melhor compreensão da influência das features na previsão do target determninado.
+  <p align="justify">
+  Com o objetivo de investigar como essas propriedades podem se relacionar com a definição de um supercondutor, portanto, esse trabalho busca treinar modelos de aprendizado de máquina e, concomitantemente, aplicar variadas técnicas de <em>Explicable AI</em> (do português, inteligência artificial explicável), no dataset descrito. Ao final da investigação, visa-se uma melhor compreensão da influência das features na previsão do target determninado.
 </p>
 
 ### Pré-requisitos 📄
