@@ -34,6 +34,12 @@ pip install matplotlib
 pip install scikit-learn
 pip install statsmodel
 ```
+### Notebooks 📓
+<ul>
+  <li> <em> Linear Regression </em>: Contém testes com diferentes regressões lineares (OLS, Ridge, Lasso e GLM), bem como a análise de Feature Importance desses modelos. </li>
+  <li><em>Shap and Lime</em>: Um notebook específico para a análise de Feature Importance com as bibliotecas SHAP e LIME. </li>
+  <li> <em>Feature Selection </em>: Contém testes com diferentes técnicas de redução de dimensionalidade. </li>
+</ul>
 
 ### Referências Gerais 📚
 [1] Superconductivity - an overview | ScienceDirect Topics. https://www.sciencedirect.com/topics/materials-science/superconductivity. Acesso em 25 de fevereiro de 2025.
