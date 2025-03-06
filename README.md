@@ -37,7 +37,7 @@ pip install statsmodel
 ### Notebooks 📓
 <ul>
   <li> <em> Linear Regression </em>: Contém testes com diferentes regressões lineares (OLS, Ridge, Lasso e GLM), bem como a análise de Feature Importance desses modelos. </li>
-  <li><em>Shap and Lime</em>: Um notebook específico para a análise de Feature Importance com as bibliotecas SHAP e LIME. </li>
+  <li><em>Decision Trees, Ensemble models & SHAP</em>: Um notebook que apresenta a indução de modelos baseados em árvores, bem como análise SHAP desses</li>
   <li> <em>Feature Selection </em>: Contém testes com diferentes técnicas de redução de dimensionalidade. </li>
 </ul>
 
