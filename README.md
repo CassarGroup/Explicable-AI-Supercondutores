@@ -33,6 +33,8 @@ pip install numpy
 pip install matplotlib
 pip install scikit-learn
 pip install statsmodel
+pip install shap
+pip install interpret
 ```
 ### Notebooks 📓
 <ul>
