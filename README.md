@@ -5,7 +5,7 @@
 
 ### Introdução 🧪
 <p align="justify">
-  A supercondutividade pode ser definida como um fenômeno físico caracterizado pela expulsão dos campos magnéticos de um material, bem como a resistência nula do mesmo a passagem de corrente elétrica [1]. Apesar do fenômeno ter sido descoberto em 1911, ainda não se sabe quais são as propriedades que podem levar um material a vir se tornar um supercondutor. Dessa forma, dada a vasta aplicabilidade desses materiais, torna-se fundamental o estudo de suas principais propriedades. 
+  De forma simples, é possível definir a supercondutividade como um fenômeno físico caracterizado pela expulsão dos campos magnéticos e resistência nula a passagem de corrente elétrica [1]. Apesar do fenômeno ter sido descoberto em 1911, ainda não se sabe quais são as propriedades que podem levar um material a vir se tornar um supercondutor. Dessa forma, dada a vasta aplicabilidade desses materiais, torna-se fundamental o estudo de suas principais propriedades. 
 </p>
 
 <p align="justify">
